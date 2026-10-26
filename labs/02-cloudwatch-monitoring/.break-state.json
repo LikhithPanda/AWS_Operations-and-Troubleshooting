@@ -1,9 +1,0 @@
-{
-  "lab": "02-cloudwatch-monitoring",
-  "alarm_name": "northbank-unhealthy-hosts",
-  "region": "us-east-1",
-  "bad_target_group_dim": "targetgroup/northbank-nonprod-tg/4ab626b1b5d0851ax",
-  "real_target_group_dim": "targetgroup/northbank-nonprod-tg/4ab626b1b5d0851a",
-  "load_balancer_dim": "app/northbank-nonprod-alb/7a56b13ef90b2095",
-  "fault": "alarm points at a non-existent TargetGroup dimension -> INSUFFICIENT_DATA forever, no SNS action"
-}

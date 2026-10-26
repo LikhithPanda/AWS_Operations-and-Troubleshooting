@@ -1,7 +1,0 @@
-{
-  "lab": "03-logs-insights",
-  "region": "us-east-1",
-  "log_group": "/northbank/app",
-  "log_stream": "web-0883",
-  "planted_pattern": "500 on /transfer with error=DBConnectionTimeout (~1 in 7 requests)"
-}

@@ -1,8 +1,0 @@
-{
-  "lab": "01-first-5-minutes",
-  "asg_name": "northbank-nonprod-asg",
-  "region": "us-east-1",
-  "original_min_size": 2,
-  "original_desired_capacity": 2,
-  "fault": "set min size and desired capacity to 0"
-}
